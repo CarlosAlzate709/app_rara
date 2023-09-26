@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">mi_votacion</string>
+    <string name="nombre_main">Nombre</string>
+    <string name="EditCedula">Cedula</string>
+    <string name="EditFecha">Fecha de Nacimiento</string>
+    <string name="Votacion">Votacion: </string>
+    <string name="Enviar">Enviar</string>
+    <string name="muestraNombre">Nombre: </string>
+    <string name="muestraCedula">Cedula: </string>
+    <string name="muestraFecha">Fecha de Nacimiento: </string>
+    <string name="Confirmar">Confirmar</string>
+    <string name="Btn_actividad2">actividad 2</string>
+    <string name="Btn_google">google</string>
+    <string name="Btn_alarma">alarma</string>
+    <string name="Btn_llamar">llama</string>
+    <string name="Btn_mapa">Localizacion</string>
+    <string name="Btn_wifi">wifi</string>
+</resources>
